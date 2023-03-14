@@ -22,11 +22,13 @@ A curated list of awesome Diffusion notebooks, tools, software, tutorials and re
 
 ## Models
 * [All Models from Huggingface](https://huggingface.co/lllyasviel/ControlNet/tree/main) - All avabilable models.
+* [ControlNet-SD(v2.1)](https://huggingface.co/thibaud/controlnet-sd21) - ControlNet for Stable Diffusion 2.1. 
 * [Safetensor Models](https://huggingface.co/webui/ControlNet-modules-safetensors/tree/main) - All avabilable as safetensors.
 
 
 ## Tools
 * [ControlNet Huggingface Space](https://huggingface.co/spaces/hysts/ControlNet) - Test ControlNet on free web app.
+* [ControlNet SD(v2.1) Huggingface Space](https://huggingface.co/spaces/ArtGAN/Stable-Diffusion-ControlNet-WebUI) - Test ControlNet-SD(v2.1) on free web app.
 * [EbSynth](https://ebsynth.com/) - Animate existing footage using just a few styled keyframes
 * [Natron](https://natrongithub.github.io/) - Free Adobe AfterEffects Alternative
 
